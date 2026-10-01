@@ -1,0 +1,1001 @@
+ID,Text,Sentiment
+1,The story was engaging and enjoyable,Positive
+2,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+3,I would not recommend this movie I would avoid it.,Negative
+4,"This movie was excellent with great performances Overall, I liked it.",Positive
+5,The performances were weak,Negative
+6,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+7,I hated the film because the story was boring It was disappointing.,Negative
+8,The story was touching and inspiring I recommend it.,Positive
+9,"I was very happy with this movie Overall, I liked it.",Positive
+10,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+11,The film was entertaining from beginning to end,Positive
+12,This was a disappointing experience,Negative
+13,"The movie exceeded my expectations Overall, I liked it.",Positive
+14,I would not recommend this movie I would avoid it.,Negative
+15,"This movie was excellent with great performances Overall, I liked it.",Positive
+16,The acting was disappointing It was disappointing.,Negative
+17,I really enjoyed this movie and would watch it again,Positive
+18,This was a disappointing experience,Negative
+19,The film was wonderful and beautifully made It was enjoyable.,Positive
+20,The story was engaging and enjoyable,Positive
+21,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+22,The story was touching and inspiring I recommend it.,Positive
+23,The story was touching and inspiring I recommend it.,Positive
+24,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+25,The characters were interesting and realistic I recommend it.,Positive
+26,The direction was excellent and creative It was enjoyable.,Positive
+27,I would definitely recommend this movie I recommend it.,Positive
+28,"I was very happy with this movie Overall, I liked it.",Positive
+29,I hated the film because the story was boring It was disappointing.,Negative
+30,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+31,The story was touching and inspiring I recommend it.,Positive
+32,The acting was impressive and memorable It was enjoyable.,Positive
+33,The direction was poor and uninspiring It was disappointing.,Negative
+34,The story was engaging and enjoyable,Positive
+35,I loved the film because the story was engaging It was enjoyable.,Positive
+36,This was a disappointing experience,Negative
+37,The direction was excellent and creative It was enjoyable.,Positive
+38,I really enjoyed this movie and would watch it again,Positive
+39,The film was poorly made It was disappointing.,Negative
+40,"I had a great time watching this movie Overall, I liked it.",Positive
+41,The story was engaging and enjoyable,Positive
+42,The film was entertaining from beginning to end,Positive
+43,The film was wonderful and beautifully made It was enjoyable.,Positive
+44,The film was boring from beginning to end,Negative
+45,"I had a great time watching this movie Overall, I liked it.",Positive
+46,This film is not worth watching It was disappointing.,Negative
+47,I would definitely recommend this movie I recommend it.,Positive
+48,The story was touching and inspiring I recommend it.,Positive
+49,The acting was disappointing It was disappointing.,Negative
+50,The performances were weak,Negative
+51,This film is worth watching It was enjoyable.,Positive
+52,I hated the film because the story was boring It was disappointing.,Negative
+53,"The movie exceeded my expectations Overall, I liked it.",Positive
+54,This film is not worth watching It was disappointing.,Negative
+55,I would definitely recommend this movie I recommend it.,Positive
+56,This film is not worth watching It was disappointing.,Negative
+57,"I had a great time watching this movie Overall, I liked it.",Positive
+58,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+59,The acting was disappointing It was disappointing.,Negative
+60,"I had a great time watching this movie Overall, I liked it.",Positive
+61,The acting was disappointing It was disappointing.,Negative
+62,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+63,The movie was entertaining and satisfying I recommend it.,Positive
+64,"I had a great time watching this movie Overall, I liked it.",Positive
+65,I loved the film because the story was engaging It was enjoyable.,Positive
+66,The movie was boring and unsatisfying I would avoid it.,Negative
+67,I would definitely recommend this movie I recommend it.,Positive
+68,The story was engaging and enjoyable,Positive
+69,"This movie was excellent with great performances Overall, I liked it.",Positive
+70,I really disliked this movie and would not watch it again,Negative
+71,The movie was entertaining and satisfying I recommend it.,Positive
+72,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+73,The film was poorly made It was disappointing.,Negative
+74,The movie was boring and failed to keep me interested I would avoid it.,Negative
+75,"I had a great time watching this movie Overall, I liked it.",Positive
+76,The story was engaging and enjoyable,Positive
+77,The performances were weak,Negative
+78,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+79,The direction was excellent and creative It was enjoyable.,Positive
+80,The story was confusing and disappointing I would avoid it.,Negative
+81,The performances were excellent,Positive
+82,This film is worth watching It was enjoyable.,Positive
+83,The story was dull and predictable,Negative
+84,"This movie was excellent with great performances Overall, I liked it.",Positive
+85,I really enjoyed this movie and would watch it again,Positive
+86,I hated the film because the story was boring It was disappointing.,Negative
+87,This film is not worth watching It was disappointing.,Negative
+88,The film was poorly made It was disappointing.,Negative
+89,"The movie exceeded my expectations Overall, I liked it.",Positive
+90,The film was entertaining from beginning to end,Positive
+91,I would definitely recommend this movie I recommend it.,Positive
+92,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+93,The film was entertaining from beginning to end,Positive
+94,This was a fantastic experience with an excellent storyline,Positive
+95,"I was very happy with this movie Overall, I liked it.",Positive
+96,This was a fantastic experience with an excellent storyline,Positive
+97,The movie was entertaining and satisfying I recommend it.,Positive
+98,The movie was boring and failed to keep me interested I would avoid it.,Negative
+99,"The movie exceeded my expectations Overall, I liked it.",Positive
+100,This was a fantastic experience with an excellent storyline,Positive
+101,This film is worth watching It was enjoyable.,Positive
+102,"This movie was excellent with great performances Overall, I liked it.",Positive
+103,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+104,The film was entertaining from beginning to end,Positive
+105,The movie was amazing and kept me interested throughout I recommend it.,Positive
+106,The movie was boring and unsatisfying I would avoid it.,Negative
+107,I would definitely recommend this movie I recommend it.,Positive
+108,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+109,The movie was boring and failed to keep me interested I would avoid it.,Negative
+110,The movie was boring and failed to keep me interested I would avoid it.,Negative
+111,The movie was boring and failed to keep me interested I would avoid it.,Negative
+112,This film is not worth watching It was disappointing.,Negative
+113,The direction was excellent and creative It was enjoyable.,Positive
+114,This film is worth watching It was enjoyable.,Positive
+115,I would definitely recommend this movie I recommend it.,Positive
+116,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+117,The direction was excellent and creative It was enjoyable.,Positive
+118,I really enjoyed this movie and would watch it again,Positive
+119,I really disliked this movie and would not watch it again,Negative
+120,This film is not worth watching It was disappointing.,Negative
+121,The direction was excellent and creative It was enjoyable.,Positive
+122,The story was dull and predictable,Negative
+123,The acting was impressive and memorable It was enjoyable.,Positive
+124,The movie was entertaining and satisfying I recommend it.,Positive
+125,The film was boring from beginning to end,Negative
+126,I hated the film because the story was boring It was disappointing.,Negative
+127,The characters were boring and forgettable I would avoid it.,Negative
+128,The characters were interesting and realistic I recommend it.,Positive
+129,This film is not worth watching It was disappointing.,Negative
+130,"I was very disappointed with this movie Overall, I disliked it.",Negative
+131,The film was entertaining from beginning to end,Positive
+132,The direction was excellent and creative It was enjoyable.,Positive
+133,The direction was poor and uninspiring It was disappointing.,Negative
+134,The movie was boring and unsatisfying I would avoid it.,Negative
+135,"I was very happy with this movie Overall, I liked it.",Positive
+136,This film is worth watching It was enjoyable.,Positive
+137,This film is worth watching It was enjoyable.,Positive
+138,"I had a great time watching this movie Overall, I liked it.",Positive
+139,"I was very disappointed with this movie Overall, I disliked it.",Negative
+140,The movie was boring and unsatisfying I would avoid it.,Negative
+141,The characters were interesting and realistic I recommend it.,Positive
+142,I really enjoyed this movie and would watch it again,Positive
+143,The characters were interesting and realistic I recommend it.,Positive
+144,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+145,The movie was boring and failed to keep me interested I would avoid it.,Negative
+146,The direction was excellent and creative It was enjoyable.,Positive
+147,The characters were boring and forgettable I would avoid it.,Negative
+148,The performances were weak,Negative
+149,The story was confusing and disappointing I would avoid it.,Negative
+150,I really enjoyed this movie and would watch it again,Positive
+151,The film was entertaining from beginning to end,Positive
+152,I really disliked this movie and would not watch it again,Negative
+153,The acting was disappointing It was disappointing.,Negative
+154,"This movie was excellent with great performances Overall, I liked it.",Positive
+155,The story was confusing and disappointing I would avoid it.,Negative
+156,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+157,"I was very disappointed with this movie Overall, I disliked it.",Negative
+158,The story was engaging and enjoyable,Positive
+159,The film was poorly made It was disappointing.,Negative
+160,The acting was impressive and memorable It was enjoyable.,Positive
+161,The story was dull and predictable,Negative
+162,The direction was poor and uninspiring It was disappointing.,Negative
+163,The film was wonderful and beautifully made It was enjoyable.,Positive
+164,The performances were excellent,Positive
+165,This was a disappointing experience,Negative
+166,This was a fantastic experience with an excellent storyline,Positive
+167,I really disliked this movie and would not watch it again,Negative
+168,The story was engaging and enjoyable,Positive
+169,I really disliked this movie and would not watch it again,Negative
+170,The film was wonderful and beautifully made It was enjoyable.,Positive
+171,The direction was poor and uninspiring It was disappointing.,Negative
+172,This was a disappointing experience,Negative
+173,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+174,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+175,The film was poorly made It was disappointing.,Negative
+176,This was a disappointing experience,Negative
+177,The story was touching and inspiring I recommend it.,Positive
+178,This was a disappointing experience,Negative
+179,The direction was poor and uninspiring It was disappointing.,Negative
+180,The story was confusing and disappointing I would avoid it.,Negative
+181,The characters were interesting and realistic I recommend it.,Positive
+182,This film is worth watching It was enjoyable.,Positive
+183,The story was engaging and enjoyable,Positive
+184,This was a fantastic experience with an excellent storyline,Positive
+185,The movie was boring and failed to keep me interested I would avoid it.,Negative
+186,"I was very disappointed with this movie Overall, I disliked it.",Negative
+187,The acting was disappointing It was disappointing.,Negative
+188,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+189,The film was wonderful and beautifully made It was enjoyable.,Positive
+190,I would not recommend this movie I would avoid it.,Negative
+191,"The movie exceeded my expectations Overall, I liked it.",Positive
+192,"I had a great time watching this movie Overall, I liked it.",Positive
+193,This film is not worth watching It was disappointing.,Negative
+194,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+195,"I was very happy with this movie Overall, I liked it.",Positive
+196,The story was dull and predictable,Negative
+197,The story was dull and predictable,Negative
+198,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+199,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+200,The acting was disappointing It was disappointing.,Negative
+201,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+202,The film was poorly made It was disappointing.,Negative
+203,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+204,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+205,I really disliked this movie and would not watch it again,Negative
+206,This film is worth watching It was enjoyable.,Positive
+207,I would not recommend this movie I would avoid it.,Negative
+208,The movie was boring and unsatisfying I would avoid it.,Negative
+209,I would not recommend this movie I would avoid it.,Negative
+210,The characters were interesting and realistic I recommend it.,Positive
+211,"I was very disappointed with this movie Overall, I disliked it.",Negative
+212,I hated the film because the story was boring It was disappointing.,Negative
+213,I would definitely recommend this movie I recommend it.,Positive
+214,The story was confusing and disappointing I would avoid it.,Negative
+215,The film was boring from beginning to end,Negative
+216,I really enjoyed this movie and would watch it again,Positive
+217,I really disliked this movie and would not watch it again,Negative
+218,This film is not worth watching It was disappointing.,Negative
+219,I really enjoyed this movie and would watch it again,Positive
+220,I would definitely recommend this movie I recommend it.,Positive
+221,The movie was boring and unsatisfying I would avoid it.,Negative
+222,The direction was poor and uninspiring It was disappointing.,Negative
+223,The film was entertaining from beginning to end,Positive
+224,This film is not worth watching It was disappointing.,Negative
+225,The story was touching and inspiring I recommend it.,Positive
+226,I really disliked this movie and would not watch it again,Negative
+227,I hated the film because the story was boring It was disappointing.,Negative
+228,The acting was disappointing It was disappointing.,Negative
+229,The story was confusing and disappointing I would avoid it.,Negative
+230,The film was wonderful and beautifully made It was enjoyable.,Positive
+231,I hated the film because the story was boring It was disappointing.,Negative
+232,The movie was amazing and kept me interested throughout I recommend it.,Positive
+233,The movie was boring and unsatisfying I would avoid it.,Negative
+234,The movie was boring and unsatisfying I would avoid it.,Negative
+235,This was a disappointing experience,Negative
+236,The performances were weak,Negative
+237,The performances were excellent,Positive
+238,"I had a great time watching this movie Overall, I liked it.",Positive
+239,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+240,The story was dull and predictable,Negative
+241,The characters were interesting and realistic I recommend it.,Positive
+242,"I was very happy with this movie Overall, I liked it.",Positive
+243,The story was touching and inspiring I recommend it.,Positive
+244,The film was poorly made It was disappointing.,Negative
+245,"The movie exceeded my expectations Overall, I liked it.",Positive
+246,The story was confusing and disappointing I would avoid it.,Negative
+247,I loved the film because the story was engaging It was enjoyable.,Positive
+248,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+249,The acting was impressive and memorable It was enjoyable.,Positive
+250,The film was poorly made It was disappointing.,Negative
+251,The film was entertaining from beginning to end,Positive
+252,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+253,The acting was disappointing It was disappointing.,Negative
+254,The film was poorly made It was disappointing.,Negative
+255,The performances were excellent,Positive
+256,The film was entertaining from beginning to end,Positive
+257,The characters were interesting and realistic I recommend it.,Positive
+258,The movie was boring and failed to keep me interested I would avoid it.,Negative
+259,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+260,The performances were excellent,Positive
+261,"I was very disappointed with this movie Overall, I disliked it.",Negative
+262,I really disliked this movie and would not watch it again,Negative
+263,I loved the film because the story was engaging It was enjoyable.,Positive
+264,"This movie was excellent with great performances Overall, I liked it.",Positive
+265,I really enjoyed this movie and would watch it again,Positive
+266,The movie was entertaining and satisfying I recommend it.,Positive
+267,The direction was excellent and creative It was enjoyable.,Positive
+268,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+269,The direction was poor and uninspiring It was disappointing.,Negative
+270,The characters were interesting and realistic I recommend it.,Positive
+271,The performances were excellent,Positive
+272,I really disliked this movie and would not watch it again,Negative
+273,The film was poorly made It was disappointing.,Negative
+274,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+275,The movie was boring and unsatisfying I would avoid it.,Negative
+276,I loved the film because the story was engaging It was enjoyable.,Positive
+277,The film was wonderful and beautifully made It was enjoyable.,Positive
+278,The film was wonderful and beautifully made It was enjoyable.,Positive
+279,This was a disappointing experience,Negative
+280,I hated the film because the story was boring It was disappointing.,Negative
+281,This was a disappointing experience,Negative
+282,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+283,The movie was entertaining and satisfying I recommend it.,Positive
+284,I would definitely recommend this movie I recommend it.,Positive
+285,This was a disappointing experience,Negative
+286,The movie was amazing and kept me interested throughout I recommend it.,Positive
+287,The movie was boring and unsatisfying I would avoid it.,Negative
+288,I would not recommend this movie I would avoid it.,Negative
+289,The acting was disappointing It was disappointing.,Negative
+290,I really disliked this movie and would not watch it again,Negative
+291,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+292,The acting was impressive and memorable It was enjoyable.,Positive
+293,The direction was poor and uninspiring It was disappointing.,Negative
+294,This film is worth watching It was enjoyable.,Positive
+295,The characters were boring and forgettable I would avoid it.,Negative
+296,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+297,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+298,The movie was boring and unsatisfying I would avoid it.,Negative
+299,The film was boring from beginning to end,Negative
+300,I would definitely recommend this movie I recommend it.,Positive
+301,The story was confusing and disappointing I would avoid it.,Negative
+302,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+303,I loved the film because the story was engaging It was enjoyable.,Positive
+304,The direction was poor and uninspiring It was disappointing.,Negative
+305,I loved the film because the story was engaging It was enjoyable.,Positive
+306,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+307,The film was wonderful and beautifully made It was enjoyable.,Positive
+308,"This movie was excellent with great performances Overall, I liked it.",Positive
+309,I really enjoyed this movie and would watch it again,Positive
+310,The movie was entertaining and satisfying I recommend it.,Positive
+311,The story was dull and predictable,Negative
+312,I would not recommend this movie I would avoid it.,Negative
+313,This film is worth watching It was enjoyable.,Positive
+314,The story was touching and inspiring I recommend it.,Positive
+315,I really disliked this movie and would not watch it again,Negative
+316,I hated the film because the story was boring It was disappointing.,Negative
+317,The performances were excellent,Positive
+318,"The movie exceeded my expectations Overall, I liked it.",Positive
+319,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+320,The film was boring from beginning to end,Negative
+321,The story was engaging and enjoyable,Positive
+322,The film was wonderful and beautifully made It was enjoyable.,Positive
+323,The film was poorly made It was disappointing.,Negative
+324,The acting was impressive and memorable It was enjoyable.,Positive
+325,The film was entertaining from beginning to end,Positive
+326,I really enjoyed this movie and would watch it again,Positive
+327,This film is worth watching It was enjoyable.,Positive
+328,The story was dull and predictable,Negative
+329,The performances were weak,Negative
+330,The movie was amazing and kept me interested throughout I recommend it.,Positive
+331,The movie was amazing and kept me interested throughout I recommend it.,Positive
+332,The film was wonderful and beautifully made It was enjoyable.,Positive
+333,The story was dull and predictable,Negative
+334,The direction was poor and uninspiring It was disappointing.,Negative
+335,"I was very disappointed with this movie Overall, I disliked it.",Negative
+336,The performances were weak,Negative
+337,I would not recommend this movie I would avoid it.,Negative
+338,"I was very disappointed with this movie Overall, I disliked it.",Negative
+339,"The movie exceeded my expectations Overall, I liked it.",Positive
+340,The performances were weak,Negative
+341,This was a disappointing experience,Negative
+342,"This movie was excellent with great performances Overall, I liked it.",Positive
+343,The film was entertaining from beginning to end,Positive
+344,The movie was amazing and kept me interested throughout I recommend it.,Positive
+345,I loved the film because the story was engaging It was enjoyable.,Positive
+346,"I was very disappointed with this movie Overall, I disliked it.",Negative
+347,The performances were weak,Negative
+348,This film is worth watching It was enjoyable.,Positive
+349,The movie was entertaining and satisfying I recommend it.,Positive
+350,The performances were weak,Negative
+351,I would not recommend this movie I would avoid it.,Negative
+352,The movie was boring and unsatisfying I would avoid it.,Negative
+353,The movie was boring and unsatisfying I would avoid it.,Negative
+354,The direction was poor and uninspiring It was disappointing.,Negative
+355,The film was boring from beginning to end,Negative
+356,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+357,"I was very disappointed with this movie Overall, I disliked it.",Negative
+358,The characters were interesting and realistic I recommend it.,Positive
+359,I would definitely recommend this movie I recommend it.,Positive
+360,The story was dull and predictable,Negative
+361,The characters were boring and forgettable I would avoid it.,Negative
+362,The movie was amazing and kept me interested throughout I recommend it.,Positive
+363,The acting was impressive and memorable It was enjoyable.,Positive
+364,I loved the film because the story was engaging It was enjoyable.,Positive
+365,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+366,"This movie was excellent with great performances Overall, I liked it.",Positive
+367,The acting was impressive and memorable It was enjoyable.,Positive
+368,The story was touching and inspiring I recommend it.,Positive
+369,The film was boring from beginning to end,Negative
+370,The characters were boring and forgettable I would avoid it.,Negative
+371,I would definitely recommend this movie I recommend it.,Positive
+372,The movie was entertaining and satisfying I recommend it.,Positive
+373,The film was wonderful and beautifully made It was enjoyable.,Positive
+374,The movie was entertaining and satisfying I recommend it.,Positive
+375,The direction was poor and uninspiring It was disappointing.,Negative
+376,The acting was impressive and memorable It was enjoyable.,Positive
+377,"The movie exceeded my expectations Overall, I liked it.",Positive
+378,I hated the film because the story was boring It was disappointing.,Negative
+379,The characters were boring and forgettable I would avoid it.,Negative
+380,The movie was boring and unsatisfying I would avoid it.,Negative
+381,The story was engaging and enjoyable,Positive
+382,The acting was disappointing It was disappointing.,Negative
+383,"I was very disappointed with this movie Overall, I disliked it.",Negative
+384,"I was very disappointed with this movie Overall, I disliked it.",Negative
+385,The story was touching and inspiring I recommend it.,Positive
+386,I really enjoyed this movie and would watch it again,Positive
+387,The film was entertaining from beginning to end,Positive
+388,The movie was boring and failed to keep me interested I would avoid it.,Negative
+389,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+390,The direction was poor and uninspiring It was disappointing.,Negative
+391,I loved the film because the story was engaging It was enjoyable.,Positive
+392,I really enjoyed this movie and would watch it again,Positive
+393,The characters were boring and forgettable I would avoid it.,Negative
+394,The film was boring from beginning to end,Negative
+395,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+396,The film was entertaining from beginning to end,Positive
+397,The movie was amazing and kept me interested throughout I recommend it.,Positive
+398,The story was engaging and enjoyable,Positive
+399,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+400,The film was entertaining from beginning to end,Positive
+401,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+402,The film was boring from beginning to end,Negative
+403,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+404,"I had a great time watching this movie Overall, I liked it.",Positive
+405,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+406,I loved the film because the story was engaging It was enjoyable.,Positive
+407,I would not recommend this movie I would avoid it.,Negative
+408,I really enjoyed this movie and would watch it again,Positive
+409,The direction was excellent and creative It was enjoyable.,Positive
+410,The performances were excellent,Positive
+411,The movie was boring and failed to keep me interested I would avoid it.,Negative
+412,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+413,The story was engaging and enjoyable,Positive
+414,"I was very disappointed with this movie Overall, I disliked it.",Negative
+415,"The movie exceeded my expectations Overall, I liked it.",Positive
+416,I really enjoyed this movie and would watch it again,Positive
+417,The movie was boring and failed to keep me interested I would avoid it.,Negative
+418,"I was very happy with this movie Overall, I liked it.",Positive
+419,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+420,The direction was poor and uninspiring It was disappointing.,Negative
+421,The film was boring from beginning to end,Negative
+422,The characters were boring and forgettable I would avoid it.,Negative
+423,I really disliked this movie and would not watch it again,Negative
+424,This was a fantastic experience with an excellent storyline,Positive
+425,The movie was amazing and kept me interested throughout I recommend it.,Positive
+426,The story was engaging and enjoyable,Positive
+427,The characters were boring and forgettable I would avoid it.,Negative
+428,The story was dull and predictable,Negative
+429,The movie was boring and unsatisfying I would avoid it.,Negative
+430,The film was entertaining from beginning to end,Positive
+431,The direction was excellent and creative It was enjoyable.,Positive
+432,The movie was amazing and kept me interested throughout I recommend it.,Positive
+433,This was a fantastic experience with an excellent storyline,Positive
+434,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+435,The story was confusing and disappointing I would avoid it.,Negative
+436,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+437,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+438,The performances were weak,Negative
+439,The film was wonderful and beautifully made It was enjoyable.,Positive
+440,The characters were boring and forgettable I would avoid it.,Negative
+441,"I was very happy with this movie Overall, I liked it.",Positive
+442,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+443,The performances were weak,Negative
+444,This film is worth watching It was enjoyable.,Positive
+445,The movie was boring and failed to keep me interested I would avoid it.,Negative
+446,I loved the film because the story was engaging It was enjoyable.,Positive
+447,The film was poorly made It was disappointing.,Negative
+448,The performances were excellent,Positive
+449,"I had a great time watching this movie Overall, I liked it.",Positive
+450,The performances were weak,Negative
+451,The characters were boring and forgettable I would avoid it.,Negative
+452,The story was dull and predictable,Negative
+453,The characters were boring and forgettable I would avoid it.,Negative
+454,This was a fantastic experience with an excellent storyline,Positive
+455,This was a fantastic experience with an excellent storyline,Positive
+456,"I was very disappointed with this movie Overall, I disliked it.",Negative
+457,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+458,"I had a great time watching this movie Overall, I liked it.",Positive
+459,The characters were interesting and realistic I recommend it.,Positive
+460,The story was dull and predictable,Negative
+461,The film was poorly made It was disappointing.,Negative
+462,The characters were interesting and realistic I recommend it.,Positive
+463,The characters were interesting and realistic I recommend it.,Positive
+464,The story was dull and predictable,Negative
+465,I would not recommend this movie I would avoid it.,Negative
+466,The acting was impressive and memorable It was enjoyable.,Positive
+467,The direction was poor and uninspiring It was disappointing.,Negative
+468,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+469,The acting was disappointing It was disappointing.,Negative
+470,The story was touching and inspiring I recommend it.,Positive
+471,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+472,I really enjoyed this movie and would watch it again,Positive
+473,"This movie was excellent with great performances Overall, I liked it.",Positive
+474,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+475,The story was engaging and enjoyable,Positive
+476,The movie was amazing and kept me interested throughout I recommend it.,Positive
+477,The performances were weak,Negative
+478,"The movie exceeded my expectations Overall, I liked it.",Positive
+479,"The movie exceeded my expectations Overall, I liked it.",Positive
+480,The direction was excellent and creative It was enjoyable.,Positive
+481,The story was dull and predictable,Negative
+482,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+483,This was a disappointing experience,Negative
+484,This was a disappointing experience,Negative
+485,I hated the film because the story was boring It was disappointing.,Negative
+486,I would definitely recommend this movie I recommend it.,Positive
+487,I really enjoyed this movie and would watch it again,Positive
+488,The direction was excellent and creative It was enjoyable.,Positive
+489,This film is worth watching It was enjoyable.,Positive
+490,The story was confusing and disappointing I would avoid it.,Negative
+491,I would not recommend this movie I would avoid it.,Negative
+492,The characters were interesting and realistic I recommend it.,Positive
+493,The acting was impressive and memorable It was enjoyable.,Positive
+494,This was a fantastic experience with an excellent storyline,Positive
+495,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+496,I loved the film because the story was engaging It was enjoyable.,Positive
+497,"I was very disappointed with this movie Overall, I disliked it.",Negative
+498,I would not recommend this movie I would avoid it.,Negative
+499,"I was very disappointed with this movie Overall, I disliked it.",Negative
+500,"This movie was excellent with great performances Overall, I liked it.",Positive
+501,The movie was boring and failed to keep me interested I would avoid it.,Negative
+502,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+503,The direction was excellent and creative It was enjoyable.,Positive
+504,"The movie exceeded my expectations Overall, I liked it.",Positive
+505,The story was dull and predictable,Negative
+506,The film was wonderful and beautifully made It was enjoyable.,Positive
+507,I loved the film because the story was engaging It was enjoyable.,Positive
+508,The direction was excellent and creative It was enjoyable.,Positive
+509,The movie was amazing and kept me interested throughout I recommend it.,Positive
+510,The movie was boring and failed to keep me interested I would avoid it.,Negative
+511,I would not recommend this movie I would avoid it.,Negative
+512,The performances were excellent,Positive
+513,The movie was entertaining and satisfying I recommend it.,Positive
+514,The story was confusing and disappointing I would avoid it.,Negative
+515,I loved the film because the story was engaging It was enjoyable.,Positive
+516,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+517,I really disliked this movie and would not watch it again,Negative
+518,The movie was boring and unsatisfying I would avoid it.,Negative
+519,The story was confusing and disappointing I would avoid it.,Negative
+520,The story was touching and inspiring I recommend it.,Positive
+521,The performances were excellent,Positive
+522,The film was wonderful and beautifully made It was enjoyable.,Positive
+523,"This movie was excellent with great performances Overall, I liked it.",Positive
+524,The acting was disappointing It was disappointing.,Negative
+525,The acting was impressive and memorable It was enjoyable.,Positive
+526,The characters were boring and forgettable I would avoid it.,Negative
+527,The direction was poor and uninspiring It was disappointing.,Negative
+528,The characters were interesting and realistic I recommend it.,Positive
+529,The acting was disappointing It was disappointing.,Negative
+530,The film was entertaining from beginning to end,Positive
+531,The acting was disappointing It was disappointing.,Negative
+532,This was a disappointing experience,Negative
+533,The film was boring from beginning to end,Negative
+534,The acting was impressive and memorable It was enjoyable.,Positive
+535,The film was boring from beginning to end,Negative
+536,The movie was boring and unsatisfying I would avoid it.,Negative
+537,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+538,The movie was amazing and kept me interested throughout I recommend it.,Positive
+539,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+540,The film was boring from beginning to end,Negative
+541,"I was very disappointed with this movie Overall, I disliked it.",Negative
+542,"This movie was excellent with great performances Overall, I liked it.",Positive
+543,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+544,I really enjoyed this movie and would watch it again,Positive
+545,The story was confusing and disappointing I would avoid it.,Negative
+546,This film is worth watching It was enjoyable.,Positive
+547,The direction was excellent and creative It was enjoyable.,Positive
+548,The performances were excellent,Positive
+549,The direction was excellent and creative It was enjoyable.,Positive
+550,I really enjoyed this movie and would watch it again,Positive
+551,I really disliked this movie and would not watch it again,Negative
+552,The direction was poor and uninspiring It was disappointing.,Negative
+553,The film was wonderful and beautifully made It was enjoyable.,Positive
+554,The film was boring from beginning to end,Negative
+555,This film is worth watching It was enjoyable.,Positive
+556,The film was poorly made It was disappointing.,Negative
+557,The acting was disappointing It was disappointing.,Negative
+558,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+559,I hated the film because the story was boring It was disappointing.,Negative
+560,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+561,The film was wonderful and beautifully made It was enjoyable.,Positive
+562,This film is worth watching It was enjoyable.,Positive
+563,The film was wonderful and beautifully made It was enjoyable.,Positive
+564,The acting was disappointing It was disappointing.,Negative
+565,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+566,The story was dull and predictable,Negative
+567,The movie was boring and unsatisfying I would avoid it.,Negative
+568,This was a fantastic experience with an excellent storyline,Positive
+569,The story was confusing and disappointing I would avoid it.,Negative
+570,I would not recommend this movie I would avoid it.,Negative
+571,This was a fantastic experience with an excellent storyline,Positive
+572,The movie was entertaining and satisfying I recommend it.,Positive
+573,The performances were weak,Negative
+574,The acting was impressive and memorable It was enjoyable.,Positive
+575,This film is not worth watching It was disappointing.,Negative
+576,The movie was entertaining and satisfying I recommend it.,Positive
+577,The acting was disappointing It was disappointing.,Negative
+578,The story was dull and predictable,Negative
+579,"I had a great time watching this movie Overall, I liked it.",Positive
+580,"I had a great time watching this movie Overall, I liked it.",Positive
+581,The film was wonderful and beautifully made It was enjoyable.,Positive
+582,This was a fantastic experience with an excellent storyline,Positive
+583,The characters were interesting and realistic I recommend it.,Positive
+584,This film is not worth watching It was disappointing.,Negative
+585,The direction was excellent and creative It was enjoyable.,Positive
+586,The characters were boring and forgettable I would avoid it.,Negative
+587,"I was very happy with this movie Overall, I liked it.",Positive
+588,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+589,"The movie exceeded my expectations Overall, I liked it.",Positive
+590,This was a disappointing experience,Negative
+591,This film is not worth watching It was disappointing.,Negative
+592,The direction was poor and uninspiring It was disappointing.,Negative
+593,The performances were excellent,Positive
+594,The acting was impressive and memorable It was enjoyable.,Positive
+595,The movie was entertaining and satisfying I recommend it.,Positive
+596,The characters were interesting and realistic I recommend it.,Positive
+597,The story was touching and inspiring I recommend it.,Positive
+598,"I was very disappointed with this movie Overall, I disliked it.",Negative
+599,The characters were interesting and realistic I recommend it.,Positive
+600,The story was engaging and enjoyable,Positive
+601,The story was dull and predictable,Negative
+602,This was a disappointing experience,Negative
+603,"I was very happy with this movie Overall, I liked it.",Positive
+604,The story was confusing and disappointing I would avoid it.,Negative
+605,This film is worth watching It was enjoyable.,Positive
+606,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+607,I would definitely recommend this movie I recommend it.,Positive
+608,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+609,I loved the film because the story was engaging It was enjoyable.,Positive
+610,I loved the film because the story was engaging It was enjoyable.,Positive
+611,I really disliked this movie and would not watch it again,Negative
+612,This was a disappointing experience,Negative
+613,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+614,The story was touching and inspiring I recommend it.,Positive
+615,I would not recommend this movie I would avoid it.,Negative
+616,"The movie exceeded my expectations Overall, I liked it.",Positive
+617,I hated the film because the story was boring It was disappointing.,Negative
+618,This was a fantastic experience with an excellent storyline,Positive
+619,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+620,I really enjoyed this movie and would watch it again,Positive
+621,This was a fantastic experience with an excellent storyline,Positive
+622,The performances were excellent,Positive
+623,The film was poorly made It was disappointing.,Negative
+624,The characters were boring and forgettable I would avoid it.,Negative
+625,"This movie was excellent with great performances Overall, I liked it.",Positive
+626,The film was poorly made It was disappointing.,Negative
+627,I really enjoyed this movie and would watch it again,Positive
+628,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+629,This was a disappointing experience,Negative
+630,The movie was amazing and kept me interested throughout I recommend it.,Positive
+631,The story was touching and inspiring I recommend it.,Positive
+632,"This movie was excellent with great performances Overall, I liked it.",Positive
+633,I really enjoyed this movie and would watch it again,Positive
+634,The direction was excellent and creative It was enjoyable.,Positive
+635,I hated the film because the story was boring It was disappointing.,Negative
+636,The characters were boring and forgettable I would avoid it.,Negative
+637,"I was very happy with this movie Overall, I liked it.",Positive
+638,This was a fantastic experience with an excellent storyline,Positive
+639,The movie was boring and failed to keep me interested I would avoid it.,Negative
+640,The performances were excellent,Positive
+641,"The movie exceeded my expectations Overall, I liked it.",Positive
+642,I really disliked this movie and would not watch it again,Negative
+643,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+644,"I was very disappointed with this movie Overall, I disliked it.",Negative
+645,The performances were weak,Negative
+646,The direction was poor and uninspiring It was disappointing.,Negative
+647,The characters were interesting and realistic I recommend it.,Positive
+648,The characters were boring and forgettable I would avoid it.,Negative
+649,The direction was excellent and creative It was enjoyable.,Positive
+650,The movie was entertaining and satisfying I recommend it.,Positive
+651,"The movie exceeded my expectations Overall, I liked it.",Positive
+652,This was a disappointing experience,Negative
+653,The story was dull and predictable,Negative
+654,The film was wonderful and beautifully made It was enjoyable.,Positive
+655,The film was boring from beginning to end,Negative
+656,This film is worth watching It was enjoyable.,Positive
+657,The movie was boring and unsatisfying I would avoid it.,Negative
+658,"This movie was excellent with great performances Overall, I liked it.",Positive
+659,The movie was amazing and kept me interested throughout I recommend it.,Positive
+660,This was a fantastic experience with an excellent storyline,Positive
+661,I hated the film because the story was boring It was disappointing.,Negative
+662,This film is not worth watching It was disappointing.,Negative
+663,"The movie exceeded my expectations Overall, I liked it.",Positive
+664,The film was wonderful and beautifully made It was enjoyable.,Positive
+665,"I was very disappointed with this movie Overall, I disliked it.",Negative
+666,The story was confusing and disappointing I would avoid it.,Negative
+667,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+668,"This movie was excellent with great performances Overall, I liked it.",Positive
+669,The acting was impressive and memorable It was enjoyable.,Positive
+670,I would not recommend this movie I would avoid it.,Negative
+671,The performances were weak,Negative
+672,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+673,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+674,This film is not worth watching It was disappointing.,Negative
+675,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+676,The film was poorly made It was disappointing.,Negative
+677,The direction was poor and uninspiring It was disappointing.,Negative
+678,I would not recommend this movie I would avoid it.,Negative
+679,The performances were excellent,Positive
+680,The direction was poor and uninspiring It was disappointing.,Negative
+681,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+682,This film is not worth watching It was disappointing.,Negative
+683,The characters were boring and forgettable I would avoid it.,Negative
+684,The movie was amazing and kept me interested throughout I recommend it.,Positive
+685,I would definitely recommend this movie I recommend it.,Positive
+686,The film was boring from beginning to end,Negative
+687,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+688,I would definitely recommend this movie I recommend it.,Positive
+689,The story was confusing and disappointing I would avoid it.,Negative
+690,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+691,The film was wonderful and beautifully made It was enjoyable.,Positive
+692,The characters were interesting and realistic I recommend it.,Positive
+693,The acting was impressive and memorable It was enjoyable.,Positive
+694,The acting was disappointing It was disappointing.,Negative
+695,This film is not worth watching It was disappointing.,Negative
+696,This was a disappointing experience,Negative
+697,I would not recommend this movie I would avoid it.,Negative
+698,The movie was entertaining and satisfying I recommend it.,Positive
+699,The acting was impressive and memorable It was enjoyable.,Positive
+700,"I was very disappointed with this movie Overall, I disliked it.",Negative
+701,"This movie was excellent with great performances Overall, I liked it.",Positive
+702,I really disliked this movie and would not watch it again,Negative
+703,"I was very happy with this movie Overall, I liked it.",Positive
+704,"I had a great time watching this movie Overall, I liked it.",Positive
+705,The story was engaging and enjoyable,Positive
+706,"I was very happy with this movie Overall, I liked it.",Positive
+707,The story was engaging and enjoyable,Positive
+708,This film is not worth watching It was disappointing.,Negative
+709,This was a fantastic experience with an excellent storyline,Positive
+710,I loved the film because the story was engaging It was enjoyable.,Positive
+711,The story was touching and inspiring I recommend it.,Positive
+712,The film was entertaining from beginning to end,Positive
+713,I would not recommend this movie I would avoid it.,Negative
+714,The performances were weak,Negative
+715,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+716,The movie was boring and failed to keep me interested I would avoid it.,Negative
+717,I hated the film because the story was boring It was disappointing.,Negative
+718,I hated the film because the story was boring It was disappointing.,Negative
+719,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+720,The movie was amazing and kept me interested throughout I recommend it.,Positive
+721,This was a fantastic experience with an excellent storyline,Positive
+722,"The movie exceeded my expectations Overall, I liked it.",Positive
+723,The performances were excellent,Positive
+724,This film is not worth watching It was disappointing.,Negative
+725,"I was very happy with this movie Overall, I liked it.",Positive
+726,The acting was impressive and memorable It was enjoyable.,Positive
+727,The movie was amazing and kept me interested throughout I recommend it.,Positive
+728,I loved the film because the story was engaging It was enjoyable.,Positive
+729,The performances were excellent,Positive
+730,The movie was boring and failed to keep me interested I would avoid it.,Negative
+731,The movie was boring and failed to keep me interested I would avoid it.,Negative
+732,I would definitely recommend this movie I recommend it.,Positive
+733,"I was very disappointed with this movie Overall, I disliked it.",Negative
+734,The movie was boring and failed to keep me interested I would avoid it.,Negative
+735,"This movie was excellent with great performances Overall, I liked it.",Positive
+736,The acting was disappointing It was disappointing.,Negative
+737,"I had a great time watching this movie Overall, I liked it.",Positive
+738,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+739,The story was touching and inspiring I recommend it.,Positive
+740,The film was poorly made It was disappointing.,Negative
+741,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+742,The characters were interesting and realistic I recommend it.,Positive
+743,This was a disappointing experience,Negative
+744,This was a fantastic experience with an excellent storyline,Positive
+745,The story was confusing and disappointing I would avoid it.,Negative
+746,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+747,The movie was boring and failed to keep me interested I would avoid it.,Negative
+748,I loved the film because the story was engaging It was enjoyable.,Positive
+749,The movie was boring and unsatisfying I would avoid it.,Negative
+750,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+751,I hated the film because the story was boring It was disappointing.,Negative
+752,"I had a great time watching this movie Overall, I liked it.",Positive
+753,"The movie exceeded my expectations Overall, I liked it.",Positive
+754,The film was entertaining from beginning to end,Positive
+755,"I had a great time watching this movie Overall, I liked it.",Positive
+756,The performances were weak,Negative
+757,The acting was disappointing It was disappointing.,Negative
+758,The acting was impressive and memorable It was enjoyable.,Positive
+759,I would not recommend this movie I would avoid it.,Negative
+760,This was a disappointing experience,Negative
+761,"This movie was excellent with great performances Overall, I liked it.",Positive
+762,The movie was amazing and kept me interested throughout I recommend it.,Positive
+763,"I was very disappointed with this movie Overall, I disliked it.",Negative
+764,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+765,This was a fantastic experience with an excellent storyline,Positive
+766,The film was boring from beginning to end,Negative
+767,The story was touching and inspiring I recommend it.,Positive
+768,The story was dull and predictable,Negative
+769,This film is not worth watching It was disappointing.,Negative
+770,The movie was boring and failed to keep me interested I would avoid it.,Negative
+771,The film was poorly made It was disappointing.,Negative
+772,The film was boring from beginning to end,Negative
+773,The movie was amazing and kept me interested throughout I recommend it.,Positive
+774,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+775,I hated the film because the story was boring It was disappointing.,Negative
+776,"I was very happy with this movie Overall, I liked it.",Positive
+777,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+778,This was a fantastic experience with an excellent storyline,Positive
+779,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+780,The acting was impressive and memorable It was enjoyable.,Positive
+781,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+782,The film was poorly made It was disappointing.,Negative
+783,I really enjoyed this movie and would watch it again,Positive
+784,The characters were boring and forgettable I would avoid it.,Negative
+785,The performances were excellent,Positive
+786,I hated the film because the story was boring It was disappointing.,Negative
+787,The movie was entertaining and satisfying I recommend it.,Positive
+788,The characters were interesting and realistic I recommend it.,Positive
+789,"I was very happy with this movie Overall, I liked it.",Positive
+790,The film was poorly made It was disappointing.,Negative
+791,I would definitely recommend this movie I recommend it.,Positive
+792,The direction was excellent and creative It was enjoyable.,Positive
+793,The movie was boring and unsatisfying I would avoid it.,Negative
+794,The film was boring from beginning to end,Negative
+795,I really enjoyed this movie and would watch it again,Positive
+796,This film is worth watching It was enjoyable.,Positive
+797,The movie was boring and unsatisfying I would avoid it.,Negative
+798,The characters were interesting and realistic I recommend it.,Positive
+799,The acting was impressive and memorable It was enjoyable.,Positive
+800,The performances were excellent,Positive
+801,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+802,The story was engaging and enjoyable,Positive
+803,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+804,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+805,This film is worth watching It was enjoyable.,Positive
+806,I really disliked this movie and would not watch it again,Negative
+807,I hated the film because the story was boring It was disappointing.,Negative
+808,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+809,The movie was entertaining and satisfying I recommend it.,Positive
+810,"I was very disappointed with this movie Overall, I disliked it.",Negative
+811,The story was engaging and enjoyable,Positive
+812,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+813,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+814,This was a fantastic experience with an excellent storyline,Positive
+815,The story was engaging and enjoyable,Positive
+816,"The movie exceeded my expectations Overall, I liked it.",Positive
+817,The direction was poor and uninspiring It was disappointing.,Negative
+818,"The movie exceeded my expectations Overall, I liked it.",Positive
+819,The story was touching and inspiring I recommend it.,Positive
+820,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+821,The movie was amazing and kept me interested throughout I recommend it.,Positive
+822,The story was dull and predictable,Negative
+823,The acting was disappointing It was disappointing.,Negative
+824,The movie was boring and unsatisfying I would avoid it.,Negative
+825,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+826,The story was touching and inspiring I recommend it.,Positive
+827,"I was very happy with this movie Overall, I liked it.",Positive
+828,The film was boring from beginning to end,Negative
+829,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+830,The direction was excellent and creative It was enjoyable.,Positive
+831,The story was engaging and enjoyable,Positive
+832,"I did not enjoy the movie at all Overall, I disliked it.",Negative
+833,The movie was entertaining and satisfying I recommend it.,Positive
+834,"This movie was excellent with great performances Overall, I liked it.",Positive
+835,The direction was excellent and creative It was enjoyable.,Positive
+836,The performances were excellent,Positive
+837,This was a fantastic experience with an excellent storyline,Positive
+838,The film was poorly made It was disappointing.,Negative
+839,The film was poorly made It was disappointing.,Negative
+840,The film was boring from beginning to end,Negative
+841,I really disliked this movie and would not watch it again,Negative
+842,The acting was disappointing It was disappointing.,Negative
+843,I really disliked this movie and would not watch it again,Negative
+844,I hated the film because the story was boring It was disappointing.,Negative
+845,This was a fantastic experience with an excellent storyline,Positive
+846,The direction was poor and uninspiring It was disappointing.,Negative
+847,The movie was entertaining and satisfying I recommend it.,Positive
+848,The movie was entertaining and satisfying I recommend it.,Positive
+849,I loved the film because the story was engaging It was enjoyable.,Positive
+850,This film is not worth watching It was disappointing.,Negative
+851,The story was confusing and disappointing I would avoid it.,Negative
+852,I would definitely recommend this movie I recommend it.,Positive
+853,"This movie was excellent with great performances Overall, I liked it.",Positive
+854,The film was wonderful and beautifully made It was enjoyable.,Positive
+855,The performances were excellent,Positive
+856,The story was confusing and disappointing I would avoid it.,Negative
+857,"I had a great time watching this movie Overall, I liked it.",Positive
+858,This film is not worth watching It was disappointing.,Negative
+859,"The movie exceeded my expectations Overall, I liked it.",Positive
+860,I hated the film because the story was boring It was disappointing.,Negative
+861,The story was confusing and disappointing I would avoid it.,Negative
+862,The story was confusing and disappointing I would avoid it.,Negative
+863,The story was dull and predictable,Negative
+864,"This movie was excellent with great performances Overall, I liked it.",Positive
+865,I would not recommend this movie I would avoid it.,Negative
+866,The acting was impressive and memorable It was enjoyable.,Positive
+867,The story was engaging and enjoyable,Positive
+868,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+869,"I was very happy with this movie Overall, I liked it.",Positive
+870,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+871,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+872,The film was entertaining from beginning to end,Positive
+873,The characters were interesting and realistic I recommend it.,Positive
+874,I really disliked this movie and would not watch it again,Negative
+875,"I was very happy with this movie Overall, I liked it.",Positive
+876,The story was dull and predictable,Negative
+877,"I was very happy with this movie Overall, I liked it.",Positive
+878,"I had a great time watching this movie Overall, I liked it.",Positive
+879,The characters were boring and forgettable I would avoid it.,Negative
+880,The film was wonderful and beautifully made It was enjoyable.,Positive
+881,The acting was disappointing It was disappointing.,Negative
+882,The film was entertaining from beginning to end,Positive
+883,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+884,The film was entertaining from beginning to end,Positive
+885,I would not recommend this movie I would avoid it.,Negative
+886,The direction was excellent and creative It was enjoyable.,Positive
+887,This film is worth watching It was enjoyable.,Positive
+888,The performances were weak,Negative
+889,The movie was boring and failed to keep me interested I would avoid it.,Negative
+890,"I was very happy with this movie Overall, I liked it.",Positive
+891,"I had a great time watching this movie Overall, I liked it.",Positive
+892,"I had a great time watching this movie Overall, I liked it.",Positive
+893,I would not recommend this movie I would avoid it.,Negative
+894,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+895,The characters were boring and forgettable I would avoid it.,Negative
+896,The performances were weak,Negative
+897,The characters were boring and forgettable I would avoid it.,Negative
+898,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+899,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+900,The performances were weak,Negative
+901,The movie was amazing and kept me interested throughout I recommend it.,Positive
+902,I would definitely recommend this movie I recommend it.,Positive
+903,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+904,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+905,The movie was amazing and kept me interested throughout I recommend it.,Positive
+906,The film was poorly made It was disappointing.,Negative
+907,I would definitely recommend this movie I recommend it.,Positive
+908,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+909,The film was entertaining from beginning to end,Positive
+910,"I was very happy with this movie Overall, I liked it.",Positive
+911,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+912,The characters were boring and forgettable I would avoid it.,Negative
+913,The movie was boring and failed to keep me interested I would avoid it.,Negative
+914,"The movie exceeded my expectations Overall, I liked it.",Positive
+915,"I was very disappointed with this movie Overall, I disliked it.",Negative
+916,I really disliked this movie and would not watch it again,Negative
+917,The story was engaging and enjoyable,Positive
+918,The story was confusing and disappointing I would avoid it.,Negative
+919,The performances were weak,Negative
+920,The direction was poor and uninspiring It was disappointing.,Negative
+921,The movie was amazing and kept me interested throughout I recommend it.,Positive
+922,The story was confusing and disappointing I would avoid it.,Negative
+923,I really disliked this movie and would not watch it again,Negative
+924,The direction was excellent and creative It was enjoyable.,Positive
+925,The story was confusing and disappointing I would avoid it.,Negative
+926,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+927,"This movie was excellent with great performances Overall, I liked it.",Positive
+928,"I had a great time watching this movie Overall, I liked it.",Positive
+929,The performances were weak,Negative
+930,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+931,This was a disappointing experience,Negative
+932,The acting was impressive and memorable It was enjoyable.,Positive
+933,I hated the film because the story was boring It was disappointing.,Negative
+934,I really enjoyed this movie and would watch it again,Positive
+935,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+936,The movie was boring and failed to keep me interested I would avoid it.,Negative
+937,This film is not worth watching It was disappointing.,Negative
+938,The story was touching and inspiring I recommend it.,Positive
+939,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+940,I loved the film because the story was engaging It was enjoyable.,Positive
+941,"I had a great time watching this movie Overall, I liked it.",Positive
+942,The story was touching and inspiring I recommend it.,Positive
+943,"The movie exceeded my expectations Overall, I liked it.",Positive
+944,The performances were excellent,Positive
+945,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+946,The movie was boring and failed to keep me interested I would avoid it.,Negative
+947,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+948,This film is not worth watching It was disappointing.,Negative
+949,I would definitely recommend this movie I recommend it.,Positive
+950,The story was touching and inspiring I recommend it.,Positive
+951,The film was entertaining from beginning to end,Positive
+952,The acting was disappointing It was disappointing.,Negative
+953,The acting was impressive and memorable It was enjoyable.,Positive
+954,The movie was boring and unsatisfying I would avoid it.,Negative
+955,I loved the film because the story was engaging It was enjoyable.,Positive
+956,This film is worth watching It was enjoyable.,Positive
+957,The characters were boring and forgettable I would avoid it.,Negative
+958,"I was very happy with this movie Overall, I liked it.",Positive
+959,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+960,The film was boring from beginning to end,Negative
+961,The story was dull and predictable,Negative
+962,The movie was amazing and kept me interested throughout I recommend it.,Positive
+963,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+964,This film is worth watching It was enjoyable.,Positive
+965,I loved the film because the story was engaging It was enjoyable.,Positive
+966,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+967,"The movie failed to meet my expectations Overall, I disliked it.",Negative
+968,The film was boring from beginning to end,Negative
+969,This film is not worth watching It was disappointing.,Negative
+970,"I had a great time watching this movie Overall, I liked it.",Positive
+971,The movie was entertaining and satisfying I recommend it.,Positive
+972,The film was boring from beginning to end,Negative
+973,The film was poorly made It was disappointing.,Negative
+974,"This movie was terrible with weak performances Overall, I disliked it.",Negative
+975,I would definitely recommend this movie I recommend it.,Positive
+976,"I had a terrible time watching this movie Overall, I disliked it.",Negative
+977,The story was engaging and enjoyable,Positive
+978,The direction was poor and uninspiring It was disappointing.,Negative
+979,The movie was entertaining and satisfying I recommend it.,Positive
+980,The characters were boring and forgettable I would avoid it.,Negative
+981,I would not recommend this movie I would avoid it.,Negative
+982,The story was touching and inspiring I recommend it.,Positive
+983,The performances were excellent,Positive
+984,The performances were excellent,Positive
+985,I loved the film because the story was engaging It was enjoyable.,Positive
+986,This was a disappointing experience,Negative
+987,The movie was entertaining and satisfying I recommend it.,Positive
+988,The performances were weak,Negative
+989,The movie was entertaining and satisfying I recommend it.,Positive
+990,The film was wonderful and beautifully made It was enjoyable.,Positive
+991,The film was entertaining from beginning to end,Positive
+992,"I was very happy with this movie Overall, I liked it.",Positive
+993,The characters were interesting and realistic I recommend it.,Positive
+994,This film is worth watching It was enjoyable.,Positive
+995,"I enjoyed every moment of the movie Overall, I liked it.",Positive
+996,I really disliked this movie and would not watch it again,Negative
+997,The movie was boring and unsatisfying I would avoid it.,Negative
+998,The film was boring from beginning to end,Negative
+999,"I was very happy with this movie Overall, I liked it.",Positive
+1000,I would definitely recommend this movie I recommend it.,Positive
